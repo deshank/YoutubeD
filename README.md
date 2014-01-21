@@ -1,9 +1,4 @@
 YoutubeD
 ========
 
-Fast Youtube Downloade
-
-
-License
-=======
-MIT
+Fast Youtube Downloader
